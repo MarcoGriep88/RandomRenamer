@@ -1,0 +1,37 @@
+C:\Users\Griep.Marco.BB\Desktop\RandomRename\RandomRename\bin\Debug\RandomRename.exe.config
+C:\Users\Griep.Marco.BB\Desktop\RandomRename\RandomRename\bin\Debug\RandomRename.exe
+C:\Users\Griep.Marco.BB\Desktop\RandomRename\RandomRename\bin\Debug\RandomRename.pdb
+C:\Users\Griep.Marco.BB\Desktop\RandomRename\RandomRename\obj\Debug\RandomRename.csprojResolveAssemblyReference.cache
+C:\Users\Griep.Marco.BB\Desktop\RandomRename\RandomRename\obj\Debug\RandomRename.Form1.resources
+C:\Users\Griep.Marco.BB\Desktop\RandomRename\RandomRename\obj\Debug\RandomRename.Properties.Resources.resources
+C:\Users\Griep.Marco.BB\Desktop\RandomRename\RandomRename\obj\Debug\RandomRename.csproj.GenerateResource.Cache
+C:\Users\Griep.Marco.BB\Desktop\RandomRename\RandomRename\obj\Debug\RandomRename.exe
+C:\Users\Griep.Marco.BB\Desktop\RandomRename\RandomRename\obj\Debug\RandomRename.pdb
+F:\Documents\Desktop Projects\RandomRename\RandomRename\bin\Debug\RandomRename.exe.config
+F:\Documents\Desktop Projects\RandomRename\RandomRename\obj\Debug\RandomRename.exe
+F:\Documents\Desktop Projects\RandomRename\RandomRename\obj\Debug\RandomRename.pdb
+F:\Documents\Desktop Projects\RandomRename\RandomRename\bin\Debug\RandomRename.exe
+F:\Documents\Desktop Projects\RandomRename\RandomRename\bin\Debug\RandomRename.pdb
+F:\Documents\Desktop Projects\RandomRename\RandomRename\obj\Debug\RandomRename.csprojResolveAssemblyReference.cache
+F:\Documents\Desktop Projects\RandomRename\RandomRename\obj\Debug\RandomRename.Form1.resources
+F:\Documents\Desktop Projects\RandomRename\RandomRename\obj\Debug\RandomRename.Properties.Resources.resources
+F:\Documents\Desktop Projects\RandomRename\RandomRename\obj\Debug\RandomRename.csproj.GenerateResource.Cache
+C:\Users\Marco\Documents\randomrename\RandomRename\bin\Debug\RandomRename.exe.config
+C:\Users\Marco\Documents\randomrename\RandomRename\obj\Debug\RandomRename.exe
+C:\Users\Marco\Documents\randomrename\RandomRename\obj\Debug\RandomRename.pdb
+C:\Users\Marco\Documents\randomrename\RandomRename\bin\Debug\RandomRename.exe
+C:\Users\Marco\Documents\randomrename\RandomRename\bin\Debug\RandomRename.pdb
+C:\Users\Marco\Documents\randomrename\RandomRename\obj\Debug\RandomRename.csprojResolveAssemblyReference.cache
+C:\Users\Marco\Documents\randomrename\RandomRename\obj\Debug\RandomRename.Form1.resources
+C:\Users\Marco\Documents\randomrename\RandomRename\obj\Debug\RandomRename.Properties.Resources.resources
+C:\Users\Marco\Documents\randomrename\RandomRename\obj\Debug\RandomRename.csproj.GenerateResource.Cache
+D:\Repositories\randomrenamer\RandomRename\obj\Debug\RandomRename.csprojAssemblyReference.cache
+D:\Repositories\randomrenamer\RandomRename\obj\Debug\RandomRename.Properties.Resources.resources
+D:\Repositories\randomrenamer\RandomRename\obj\Debug\RandomRename.csproj.GenerateResource.cache
+D:\Repositories\randomrenamer\RandomRename\obj\Debug\RandomRename.exe
+D:\Repositories\randomrenamer\RandomRename\obj\Debug\RandomRename.pdb
+D:\Repositories\randomrenamer\RandomRename\bin\Debug\RandomRename.exe.config
+D:\Repositories\randomrenamer\RandomRename\bin\Debug\RandomRename.exe
+D:\Repositories\randomrenamer\RandomRename\bin\Debug\RandomRename.pdb
+D:\Repositories\randomrenamer\RandomRename\obj\Debug\RandomRename.Form1.resources
+D:\Repositories\randomrenamer\RandomRename\obj\Debug\RandomRename.csproj.CoreCompileInputs.cache
